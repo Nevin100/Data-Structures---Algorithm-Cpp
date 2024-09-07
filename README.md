@@ -1,5 +1,5 @@
 <h1>Data Structures & Algorithm in C++</h1>
 <hr/>
-<p>Learning all the fundamental concepts of C++ as well as the DSA in C++<br/>
-  This Repo includes all the concepts taught by shraddha ma'am in her new DSA series 
+<p>Mastering the core concepts of C++ along with data structures and algorithms (DSA) in C++.<br/>
+  This Repo includes all the concepts taught by Shraddha Ma'am in her new DSA series 
 </p>
